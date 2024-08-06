@@ -1,16 +1,15 @@
-Bonjour, je suis benfls étudiant en école d'ingénieur à l'école de l'ISIMA de Clermont-Ferrand spécialisé dans la filière système d'aide à la décision, je rentre dans ma troisième année d'ecole d'ingénieur et je vais commencer une double diplôme qui vise à 
-étudier les dernières technologies de pointes dans les système d'aide à la décision et les sciences des données. 
+Hello, 
 
-Je suis intéressé par l'étude des données et le machine learning, j'ai notamment réalisé plusieur projet personnel comme la création d'un GPT et un modèle de tracking visuel pour apprendre de nouvelle compétence 
-sur l'intelligence artificielle et le data processing. 
+I am benfls, a student at ISIMA in Clermont-Ferrand, specializing in Decision Support Systems. I am entering my third year of engineering school and will begin a dual degree program focused on studying the latest cutting-edge technologies in decision support systems and data science.
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am interested in data analysis and machine learning. I have completed several personal projects, such as creating a GPT model and a visual tracking model, to acquire new skills in artificial intelligence and data processing. I also completed a 5-month internship at Apex-Solutions in Cambes (46), where I developed various intelligent models for trajectory prediction and shock wave suppression during diffraction and reflection.
 
-<!---
-benfls/benfls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currently seeking an end-of-study internship abroad, starting in early April 2025. During this internship, I would like to deepen the knowledge I have already acquired in data science and AI/ML.
+
+I can be reached at the following email address: ben.flous300502@gmail.com for more information and potential internship opportunities.
+
+Thank you in advance to everyone who takes the time to consider my application and contact me for internship opportunities.
+
+Best regards,
+
+benfls
